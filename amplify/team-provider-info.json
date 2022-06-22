@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-glhelloworld-staging-84119-authRole",
+      "UnauthRoleArn": "arn:aws:iam::570434966491:role/amplify-glhelloworld-staging-84119-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::570434966491:role/amplify-glhelloworld-staging-84119-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-glhelloworld-staging-84119-deployment",
+      "UnauthRoleName": "amplify-glhelloworld-staging-84119-unauthRole",
+      "StackName": "amplify-glhelloworld-staging-84119",
+      "StackId": "arn:aws:cloudformation:us-east-2:570434966491:stack/amplify-glhelloworld-staging-84119/eca247c0-f13d-11ec-ac59-0a7161422ea0",
+      "AmplifyAppId": "dwx9dd8zc2qe2"
+    }
+  }
+}
